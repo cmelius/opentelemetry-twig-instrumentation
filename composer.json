@@ -1,5 +1,5 @@
 {
-  "name": "cmelius/opentelemetry-twig-instrumentation",
+  "name": "cmelius/opentelemetry-auto-twig",
   "description": "OpenTelemetry Twig Instrumentation",
   "type": "library",
   "license": "Apache-2.0",
